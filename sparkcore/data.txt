@@ -1,0 +1,3 @@
+This is a Spark Program
+Spark is written in Scala
+Scala is awesome programming language
